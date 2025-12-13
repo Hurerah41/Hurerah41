@@ -44,13 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160px" />
 </p>
 
----
 
-## 🧩 Featured Projects
-👉 **Student Marksheet Generator (HTML + PHP)**  
-👉 **Budget Maker with Charts (JavaScript)**  
-
----
 
 ## 🌍 Connect With Me
 <p>
