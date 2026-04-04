@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm <span style="color:#007bff;">Abu Hurerah</span></h1>
-<h3 align="center">Full Stack Developer (In Progress) | AI Learner | Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 ---
 
